@@ -1,0 +1,20 @@
+.card-personalizada{
+    width: 70vw;
+    margin: auto auto;
+    margin-top: 200px;
+}
+
+.link__text{
+    text-decoration: none;
+    color: black;
+}
+
+.card-text{
+    text-align: justify;
+}
+
+img{
+    width: 100%;
+    height: auto;
+}
+
